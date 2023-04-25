@@ -1,0 +1,10 @@
+User-agent: * 
+
+Disallow: /blog/wp-login.php
+Disallow: /blog/wp-admin/
+Disallow: /career/*
+Disallow: /Portfolio/*
+Disallow: /casestudy/*
+Disallow: /career/*
+
+
